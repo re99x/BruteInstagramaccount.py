@@ -273,31 +273,29 @@ class instagram:
  __/ /  _  / / /(__  )/ /_ / /_/ /_/_____/ /_/ /  
  /___/  /_/ /_//____/ \__/ \__,_/        \____/{C}
 
-{H}[*] Email       : RAHMAT
+{H}[*] Email       : RE99X
 {H}[*] Bergabung   : 26 November 1945
 {H}[*] ---------------------------------------------
-{H}[*] Kadaluwarsa : Sampai Kiamat
-{H}[*] Status      : Premium Sampai Yatim
-{H}[*] Author      : RESTU DEVA
+{H}[*] Author      : RE99X
 {H}[*] ---------------------------------------------
 
-{H}[01]. crack dari pencarian nama
-{H}[02]. crack dari pengikut
-{H}[03]. crack dari mengikuti
+{H}[01]. INJEKSI WEBSITE
+{H}[02]. ROUTE IP
+{H}[03]. MELIHAT ALAMAT MAC ADDRESS TARGET
 
-{H}[04]. crack ulang hasil crack
-{H}[05]. lihat akun hasil crack
-{H}[09]. bot auto follow
+{H}[04]. BRUTE PASSWORD LOG ADMIN WEBSITE
+{H}[05]. PROXY FOXY RANDOM INDO IP
+{H}[09]. TOOLS HACK ACCOUNT SOSMED ( IG, FB, TIKTOK ) 
 
-{M}[F] Minta Lisensi 
+{M}[F] GANTI IP + PROXY + FINGERPRINT DEVICE
 {M}[P] Keluar
 	""")
 
 	def BUG(self):
 		print(f"""
- [{U}>{C}] Lisensi 1 Bulan / 150k
- [{U}>{C}] Anda bisa melaporkan langsung ke Whatsapp
- [{U}>{C}]  {H}081226414983{C}
+ [{U}>{C}] PROGRAM INI PRIVATE, DI DUKUNG ENKRIPSI
+ [{U}>{C}] BY : RE99X ( RAHMAT AGUSTIAN )
+ [{U}>{C}]  {H}@RahmatAgustian_x{C}
 		""")
 		exit()
 
